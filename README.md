@@ -16,8 +16,8 @@ const DATA = {
   profile: {
     name: "Tikso SAYALUB",
     title: "Ecotourism Specialist & Digital Transformation Advocate",
-    location: "Vientiane Capital, Laos",
-    email: "tiksobig@gmail.com",
+    location: "Dongdok village, Xaythani distric, Vientiane Capital, Laos",
+    email: "saylubtik@gmail.com",
     phone: "+856 20 7739 6741",
     bio: "A highly motivated final-year Ecotourism student at the National University of Laos. With a professional background in international coordination (UN agencies) and high-tech production (Japan), I specialize in leveraging AI and digital innovations to drive environmental sustainability and community empowerment."
   },
